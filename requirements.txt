@@ -1,0 +1,4 @@
+python==3.9.1
+streamlit
+requests
+PyPDF2
