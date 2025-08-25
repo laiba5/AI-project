@@ -2,6 +2,8 @@
 
 https://github.com/laiba5/AI-project/blob/main/pdf_summarizer-chatbot.PNG
 
+You can view the deployed project from here: https://pdf-summarizer-chatbot-using-llama.streamlit.app/
+
 ## Project Overview
 The PDF Summarizer Chatbot is a user-friendly application that allows you to upload PDF documents and receive concise summaries generated using advanced Large Language Models (LLMs). This project leverages the power of Natural Language Processing (NLP) to extract meaningful insights from textual data, making document analysis faster and more efficient.
 
@@ -19,5 +21,6 @@ I use **groq**, which provides **free** API services with open-source models lik
 - Multi-language support for summarization.
 - Enhanced text extraction with OCR for scanned PDFs.
 - Options for customized summary lengths and formats.
+
 
 
